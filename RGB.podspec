@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage = "https://github.com/acuenco/RGB"
   spec.license = { type: 'MIT', file: 'LICENSE' }
   spec.authors = { "Adriene Cuenco" => 'adrienC562@egmail.com' }
-  spec.social_media_url = "linkedin.com/in/acuenco"
+  spec.social_media_url = "www.linkedin.com/in/acuenco"
 
   spec.platform = :ios, "9.1"
   spec.requires_arc = true
